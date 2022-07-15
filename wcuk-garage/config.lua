@@ -106,10 +106,10 @@ Config.Notifications = {
 Config.HelpNotfiy = 'Press [E].'
 Config.HelpNotfiy1 = 'There is no car in your garage'
 ---- DİSCORD WEBHOOK --- 
-Config.TransferWebhook = "https://discord.com/api/webhooks/975104152319447072/04qrO25O-9EO4y9aRSzmL8ZsuVd-lBlCcGfh5nK32SBxPY4dwUm-TYnFtulbeXe4cFDN"
-Config.SellWebhook = "https://discord.com/api/webhooks/975104152319447072/04qrO25O-9EO4y9aRSzmL8ZsuVd-lBlCcGfh5nK32SBxPY4dwUm-TYnFtulbeXe4cFDN"
-Config.IconURL = "https://cdn.discordapp.com/attachments/972497790225752078/978099743425171456/Dark03.gif"
-Config.Logo = "https://cdn.discordapp.com/attachments/972497790225752078/978106133405372486/Comp_227.png"
+Config.TransferWebhook = "CHANGEME"
+Config.SellWebhook = "CHANGEME"
+Config.IconURL = "CHANGEME.png/.gif"
+Config.Logo = "CHANGEME.png"
 Config.Botname = "Garage Report Log"
 
 -- DrawText Settings 
