@@ -34,7 +34,7 @@ MFD.PlantTemplate = {
 
 MFD.ItemTemplate = {
      ["Type"] = "Water",
-  ["Quality"] = 0.0,
+     ["Quality"] = 0.0,
 }
 
 MFD.Objects = {
